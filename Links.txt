@@ -1,0 +1,5 @@
+The Wireshark application can be downloaded here: https://www.wireshark.org/ 
+
+For your IP address you can just navigate to https://www.whatsmyip.org/ and locate your own and change it in the code.
+
+Navigate to https://www.google.com/mymaps. Here you can create a new map and Import a new layer.
